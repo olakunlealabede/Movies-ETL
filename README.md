@@ -16,3 +16,10 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, a func
 # ratings Dataframe
 <img width="507" alt="Ratings " src="https://user-images.githubusercontent.com/89113627/144741743-5e87caed-5904-4e7a-bddc-59df9d305f4a.png">
 
+# Deliverable 2
+
+Applying the knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata while extracting the IMDb IDs using a regular expression string and dropping duplicates, use a try-except block to catch errors.
+# Wiki_movies_df image
+<img width="807" alt="wiki_movies_df" src="https://user-images.githubusercontent.com/89113627/144778201-5d59651e-3d72-4cf9-9a90-afcff9f1d94f.PNG">
+# Wiki_movies_df to a list
+<img width="453" alt="wiki_movies_df_columns" src="https://user-images.githubusercontent.com/89113627/144778259-39358abf-3ed8-4dc6-ae51-3c9fec1303d4.PNG">
