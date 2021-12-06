@@ -21,5 +21,13 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, a func
 Applying the knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata while extracting the IMDb IDs using a regular expression string and dropping duplicates, use a try-except block to catch errors.
 # Wiki_movies_df image
 <img width="807" alt="wiki_movies_df" src="https://user-images.githubusercontent.com/89113627/144778201-5d59651e-3d72-4cf9-9a90-afcff9f1d94f.PNG">
-# Wiki_movies_df to a list
+## Wiki_movies_df to a list
 <img width="453" alt="wiki_movies_df_columns" src="https://user-images.githubusercontent.com/89113627/144778259-39358abf-3ed8-4dc6-ae51-3c9fec1303d4.PNG">
+
+# Deliverable 3
+
+Using knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. Then, merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. Finally, merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df.
+# Movies_with_ratings_df
+<img width="811" alt="movies_with_ratings_df" src="https://user-images.githubusercontent.com/89113627/144787886-3d57e25c-d578-4bcc-9637-8de89de35c63.png">
+# Movies_df_head
+<img width="811" alt="movies_df_head_deliverable3" src="https://user-images.githubusercontent.com/89113627/144788072-90f60f66-fc85-4b7e-a976-572f93038d67.png">
