@@ -33,3 +33,18 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, extrac
 
 # Movies_df_head
 <img width="811" alt="movies_df_head_deliverable3" src="https://user-images.githubusercontent.com/89113627/144788072-90f60f66-fc85-4b7e-a976-572f93038d67.png">
+
+# Deliverable 4
+
+Use knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
+<img width="944" alt="movies_query" src="https://user-images.githubusercontent.com/89113627/144796739-5b438aa8-19a0-4f58-9d54-1c745faea2f8.png">
+
+The data from the MovieLens rating CSV file is added to the ratings table in the SQL database, as determined by the ratings_query.png.
+<img width="365" alt="select_from_movies" src="https://user-images.githubusercontent.com/89113627/144797082-591ef8cb-55dd-4c52-b52b-4882b19e57a0.png">
+<img width="367" alt="select_from_ratings_data_output" src="https://user-images.githubusercontent.com/89113627/144797620-6bc4be2f-b505-493c-bc8b-de587f4b249a.png">
+<img width="360" alt="select_from_ratings_query" src="https://user-images.githubusercontent.com/89113627/144797843-4a20f7d7-c6e6-4cfc-8b89-616bed7f4ec2.png">
+
+# Summary
+
+The (Extract, Transform, Load) function created, collects and cleans movie data from different sources (Wikipedia JSON, Kaggle data and ratings CSV files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis.
+
